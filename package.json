@@ -1,0 +1,23 @@
+{
+  "name": "taskapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "handle": "^1.0.0",
+    "jsonwebtoken": "^8.4.0",
+    "method-override": "^3.0.0",
+    "pg": "^7.7.1",
+    "sequelize": "^4.41.2",
+    "sequelize-cli": "^5.4.0"
+  }
+}
